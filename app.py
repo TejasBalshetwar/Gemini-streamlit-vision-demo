@@ -45,6 +45,5 @@ input_prompt = """
 if submit:
     image_data = input_image_setup(uploaded_file)
     response=get_gemini_response(input_prompt,image_data,input)
-    print(response)
     st.subheader("The Response is")
     st.write(response)
