@@ -23,4 +23,7 @@ This Python script demonstrates the integration of Google's Gemini API with Stre
 - `input_image_setup()` processes the uploaded image for Gemini API usage.
 - The Streamlit interface prompts users for text input and image upload.
 
+
+## Notes
+- https://makersuite.google.com/app/apikey is the link to get the Google API key.
 Feel free to explore and modify the code as needed!
